@@ -5,7 +5,7 @@ pkg update && pkg upgrade -y
 
 pkg install git python -y
 
-gitclone https://github.com/smchaysbaydi298-ctrl/Ngl-spam1.git
+git clone https://github.com/smchaysbaydi298-ctrl/Ngl-spam1.git
 
 cd Ngl-spam1
 
