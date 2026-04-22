@@ -9,7 +9,7 @@ git clone https://github.com/smchaysbaydi298-ctrl/Ngl-spam1.git
 
 cd Ngl-spam1
 
-python ngl spam.py
+python "ngl spam.py"
 
 ถ้าเลือกโหมด 2 (สุ่มข้อความ)
 
